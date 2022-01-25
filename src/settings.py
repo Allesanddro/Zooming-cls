@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tl^+0x-51ke0(x85^no6!dl1hwvkm560ht=wro)36a-ik2k4h*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['new.sandro-bbw.de']
 
 
 # Application definition
@@ -146,11 +146,11 @@ EMAIL_HOST = 'smtp.zoho.com'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = 'yeazin@zohomail.com'
 EMAIL_HOST_PASSWORD = 'iiCF*G$Kqg882SJ'
-EMAIL_USE_SSL = True 
+EMAIL_USE_SSL = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 
-# Repository Owned By Nazrul Islam Yeasin 
+# Repository Owned By Nazrul Islam Yeasin
 # Facebook : https://facebook.com/yeazin.io
 # Twitter  : https://twitter.com/_yeazin
 # Github : https://github.com/yeazin
